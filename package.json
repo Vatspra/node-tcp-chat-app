@@ -1,0 +1,19 @@
+{
+  "name": "tcp-chat-app",
+  "version": "1.0.0",
+  "description": "This is a simple chat application built using Node.js to demonstrate the basics of TCP, streams, and buffers. It includes both server and client code, allowing multiple users to connect and chat with each other in real-time.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prashant Jha",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vatspra/node-tcp-chat-app"
+  }
+}
